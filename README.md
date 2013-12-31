@@ -5,7 +5,6 @@ Example Web Applications written with web2py. These are provided free and open t
 
 List of Examples
 ----------------
-# Search Example
-This web2py application shows how to setup three types of searches using the form and grid components available in web2py. It comes populated with a database of all US states and their capital cities.
+  - [Search Example](http://www.kevinpatrickwestropp.org/searchexample/)
+    - This web2py application shows how to setup three types of searches using the form and grid components available in web2py. It comes populated with a database of all US states and their capital cities.
 
-See it live [here](http://www.kevinpatrickwestropp.org/searchexample/)
