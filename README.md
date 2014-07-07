@@ -7,5 +7,4 @@ List of Examples
 ----------------
   - [Search Example](http://www.kevinpatrickwestropp.org/searchexample/)
     - This web2py application shows how to setup three types of searches using the form and grid components available in web2py. It comes populated with a database of all US states and their capital cities. 
-      - [web2py.app.search.w2p]()
 
