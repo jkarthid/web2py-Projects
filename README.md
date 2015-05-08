@@ -5,8 +5,8 @@ Example Web Applications written with web2py. These are provided free and open t
 
 List of Projects/Examples
 -------------------------
-  - [Search Example](https://github.com/highlanderkev/web2py-Projects/blob/master/web2py.app.search.w2p)
+  - [Search Example](https://github.com/highlanderkev/SearchExamples-web2py)
     - This web2py application shows how to setup three types of searches using the form and grid components available in web2py. It comes populated with a database of all US states and their capital cities.
 
-  - [Project Tracker](https://github.com/highlanderkev/web2py-Projects/blob/master/web2py.app.projecttracker.w2p)
+  - [Project Tracker](https://github.com/highlanderkev/ProjectTracker-web2py)
     - This web2py application shows how to setup a more advanced type of project management application for tracking tasks across different projects. It uses ajax and other advanced web2py components like xmlrpc.
